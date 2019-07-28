@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OOO:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4659d21-676b-48ab-9054-fa58fec87edb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/OOO_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/classes/org/andios/servlet/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/classes/org/andios/servlet/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/classes/org/andios/servlet/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/classes/org/andios/servlet/servlet/UserLoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/classes/org/andios/servlet/servlet/UserRegisterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/classes/org/andios/servlet/utils/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/classes/org/andios/servlet/utils/UTFFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/index/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/OOO_war_exploded/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOO/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOO/org/andios/servlet/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOO/org/andios/servlet/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOO/org/andios/servlet/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOO/org/andios/servlet/servlet/UserLoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOO/org/andios/servlet/servlet/UserRegisterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOO/org/andios/servlet/utils/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOO/org/andios/servlet/utils/UTFFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/andios/servlet/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/andios/servlet/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/andios/servlet/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/andios/servlet/servlet/UserLoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/andios/servlet/servlet/UserRegisterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/andios/servlet/utils/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/andios/servlet/utils/UTFFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/register.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/utils/BaseDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="99" column="54" lean-forward="true" selection-start-line="99" selection-start-column="54" selection-end-line="99" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/db.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index/info.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/andios/serlvet/model/User.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/login.jsp" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/register.jsp" />
+        <option value="$PROJECT_DIR$/src/org/andios/servlet/utils/UTFFilter.java" />
+        <option value="$PROJECT_DIR$/src/org/andios/servlet/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/org/andios/servlet/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/org/andios/servlet/servlet/UserLoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/org/andios/servlet/servlet/UserRegisterServlet.java" />
+        <option value="$PROJECT_DIR$/src/org/andios/servlet/model/User.java" />
+        <option value="$PROJECT_DIR$/src/db.properties" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/org/andios/servlet/utils/BaseDao.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1091" />
+    <option name="y" value="121" />
+    <option name="width" value="1520" />
+    <option name="height" value="914" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOO" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\web\IDEA\code\OOO\web" />
+      <recent name="E:\web\IDEA\code\OOO\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.42" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.42" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/OOO_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="OOO:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/OOO_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_OOO_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56540" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="OOO:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.42" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/OOO_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="OOO:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/OOO_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_OOO" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57317" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="OOO:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4659d21-676b-48ab-9054-fa58fec87edb" name="Default Changelist" comment="" />
+      <created>1564275520725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564275520725</updated>
+      <workItem from="1564275522589" duration="2439000" />
+      <workItem from="1564278019790" duration="2809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5248000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="873" y="97" width="1216" height="731" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20379965" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28005657" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/servlet/UserLoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/servlet/UserRegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/utils/UTFFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar!/javax/servlet/Filter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index/info.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andios/servlet/utils/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="99" column="54" lean-forward="true" selection-start-line="99" selection-start-column="54" selection-end-line="99" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
